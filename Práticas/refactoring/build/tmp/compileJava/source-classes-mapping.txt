@@ -1,0 +1,26 @@
+com/aor/refactoring/example4/Worker.java
+ com.aor.refactoring.example4.Worker
+com/aor/refactoring/example2/GraphicFramework.java
+ com.aor.refactoring.example2.GraphicFramework
+com/aor/refactoring/example2/Shape.java
+ com.aor.refactoring.example2.Shape
+ com.aor.refactoring.example2.Shape$1
+ com.aor.refactoring.example2.Shape$TYPE
+com/aor/refactoring/example5/Turtle.java
+ com.aor.refactoring.example5.Turtle
+com/aor/refactoring/example4/Supervisor.java
+ com.aor.refactoring.example4.Supervisor
+com/aor/refactoring/example1/Product.java
+ com.aor.refactoring.example1.Product
+com/aor/refactoring/example3/Discount.java
+ com.aor.refactoring.example3.Discount
+com/aor/refactoring/example4/Client.java
+ com.aor.refactoring.example4.Client
+com/aor/refactoring/example3/SimpleOrder.java
+ com.aor.refactoring.example3.SimpleOrder
+com/aor/refactoring/example6/Tree.java
+ com.aor.refactoring.example6.Tree
+com/aor/refactoring/example1/Order.java
+ com.aor.refactoring.example1.Order
+com/aor/refactoring/example1/OrderLine.java
+ com.aor.refactoring.example1.OrderLine

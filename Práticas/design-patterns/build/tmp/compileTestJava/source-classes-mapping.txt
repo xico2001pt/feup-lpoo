@@ -1,0 +1,16 @@
+StringCaseChangerTest.java
+ StringCaseChangerTest
+StringRecipeTest.java
+ StringRecipeTest
+StringTransformerGroupTest.java
+ StringTransformerGroupTest
+StringReplacerTest.java
+ StringReplacerTest
+StringInverterTest.java
+ StringInverterTest
+StringDrinkTest.java
+ StringDrinkTest
+HumanClientTest.java
+ HumanClientTest
+StringBarTest.java
+ StringBarTest

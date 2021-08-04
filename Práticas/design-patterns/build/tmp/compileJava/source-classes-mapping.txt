@@ -1,0 +1,36 @@
+StringTransformers/StringTransformerGroup.java
+ StringTransformers.StringTransformerGroup
+StringTransformers/StringRecipe.java
+ StringTransformers.StringRecipe
+StringTransformers/StringTransformer.java
+ StringTransformers.StringTransformer
+StringTransformers/StringDrink.java
+ StringTransformers.StringDrink
+StringTransformers/StringReplacer.java
+ StringTransformers.StringReplacer
+StringTransformers/StringInverter.java
+ StringTransformers.StringInverter
+StringTransformers/StringCaseChanger.java
+ StringTransformers.StringCaseChanger
+Observers/Client.java
+ Observers.Client
+Bars/Bar.java
+ Bars.Bar
+Bars/StringBar.java
+ Bars.StringBar
+OrderingStrategies/OrderingStrategy.java
+ OrderingStrategies.OrderingStrategy
+Observers/HumanClient.java
+ Observers.HumanClient
+OrderingStrategies/ImpatientStrategy.java
+ OrderingStrategies.ImpatientStrategy
+OrderingStrategies/SmartStrategy.java
+ OrderingStrategies.SmartStrategy
+Observers/BarObserver.java
+ Observers.BarObserver
+Observers/Aliens/FerengiClient.java
+ Observers.Aliens.FerengiClient
+Observers/Aliens/RomulanClient.java
+ Observers.Aliens.RomulanClient
+Observers/Aliens/AlienClient.java
+ Observers.Aliens.AlienClient

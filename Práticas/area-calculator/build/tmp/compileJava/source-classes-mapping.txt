@@ -1,0 +1,34 @@
+Objects/Shapes/AreaShapes/Circle.java
+ Objects.Shapes.AreaShapes.Circle
+Objects/Shapes/Shape.java
+ Objects.Shapes.Shape
+Objects/Shapes/Line.java
+ Objects.Shapes.Line
+AreaStringOutputter.java
+ AreaStringOutputter
+Objects/House.java
+ Objects.House
+Objects/Shapes/AreaShapes/Rectangle.java
+ Objects.Shapes.AreaShapes.Rectangle
+SumProviders/SumProvider.java
+ SumProviders.SumProvider
+Objects/Drawable.java
+ Objects.Drawable
+Objects/Shapes/AreaShapes/Elipse.java
+ Objects.Shapes.AreaShapes.Elipse
+Objects/Shapes/AreaShapes/Triangle.java
+ Objects.Shapes.AreaShapes.Triangle
+Objects/HasArea.java
+ Objects.HasArea
+Application.java
+ Application
+AreaXMLOutputter.java
+ AreaXMLOutputter
+Objects/Shapes/AreaShapes/AreaShape.java
+ Objects.Shapes.AreaShapes.AreaShape
+SumProviders/City.java
+ SumProviders.City
+Objects/Shapes/AreaShapes/Square.java
+ Objects.Shapes.AreaShapes.Square
+SumProviders/AreaAggregator.java
+ SumProviders.AreaAggregator

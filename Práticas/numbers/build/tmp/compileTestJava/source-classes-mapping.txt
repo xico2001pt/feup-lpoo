@@ -1,0 +1,16 @@
+com/aor/numbers/ListDeduplicatorTest.java
+ com.aor.numbers.ListDeduplicatorTest
+com/aor/numbers/ListSorterTest.java
+ com.aor.numbers.ListSorterTest
+com/aor/numbers/max_bug_7263.java
+ com.aor.numbers.max_bug_7263
+com/aor/numbers/distinct_bug_8726.java
+ com.aor.numbers.distinct_bug_8726
+com/aor/numbers/ListAggregatorTest.java
+ com.aor.numbers.ListAggregatorTest
+com/aor/numbers/PositiveFilterTest.java
+ com.aor.numbers.PositiveFilterTest
+com/aor/numbers/DivisibleByFilterTest.java
+ com.aor.numbers.DivisibleByFilterTest
+com/aor/numbers/ListFiltererTest.java
+ com.aor.numbers.ListFiltererTest
